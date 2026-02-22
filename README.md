@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Prakhar Gupta
 
-<!--
-**me-prakhargupta/me-prakhargupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer (Backend-Focused)
 
-Here are some ideas to get you started:
+## Tech Stack
+- Backend: Node.js, Express, MongoDB
+- Frontend: Next.js, React, Tailwind
+- Core: REST APIs, JWT Auth, Middleware
+- DSA: C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Trusto
+Task-handling platform for Indian users
+- Solves real-world government service friction
+- Built with scalable backend architecture
+
+### Brevis
+Anonymous emotional expression platform
+- Privacy-first design
+- Minimalist product thinking
+
+## DSA
+- Solved 120+ problems on LeetCode
+- Focus: Arrays, Recursion, Stack, Queue
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/meprakhargupta/
+- LeetCode: https://leetcode.com/u/meprakhargupta/
