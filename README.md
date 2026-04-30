@@ -51,7 +51,7 @@ AI-powered journaling platform with Google Gemini emotion analysis.
 ## Experience
 
 - Open Source Contributor - KanoDojo / Tadreeb LMS  
-- Full Stack Developer Intern - CodeMyPYP  
+- Full Stack Developer Intern - CodeMyFYP  
 
 ---
 
