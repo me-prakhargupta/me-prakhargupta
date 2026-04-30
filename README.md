@@ -1,34 +1,61 @@
 # Prakhar Gupta
 
-Full-Stack Developer focused on backend systems, automation, and clean product thinking.  
-I build tools that reduce friction in job discovery, task handling, and emotional expression.
+Backend-focused Full-Stack Developer building production-ready web applications and scalable backend systems.
+
+Experienced in designing REST APIs, authentication systems, scraping pipelines, and end-to-end deployments across Node.js, Express, MongoDB, and Next.js.
 
 ---
 
-## Tech Stack
+## Engineering Focus
 
-- **Backend:** Node.js, Express, MongoDB
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Core:** REST APIs, JWT Auth, Middleware
-- **DSA:** C++ (LeetCode — 125+ problems)
+- Backend Architecture & API Design
+- Authentication / Authorization Systems
+- Data Pipelines & Web Scraping
+- Production Deployment & Debugging
+- Full-Stack Product Development
 
 ---
 
-## Projects
+## Featured Projects
 
 ### [Carvio](https://github.com/me-prakhargupta/carvio)
-Personalized job & internship alert system with scraping, filtering, and skill-based matching.  
-Pipeline-driven backend: `ingestion → normalization → storage → matching → delivery`
+Job & internship alert platform with multi-source scraping, normalization, and personalized alert matching.
 
-### [Brevis](https://github.com/me-prakhargupta/brevis)
-Anonymous emotional expression platform with privacy-first, minimalist design.
-
-### [AI Assisted Journal System](https://github.com/me-prakhargupta/ai-assisted-journal-system)
-Full-stack AI journal system demonstrating REST API design, LLM integration, and scalable backend architecture using Node.js, Express, TypeScript, MongoDB, and Next.js.
+**Highlights:**  
+- Built ingestion pipeline: `scrape → normalize → store → match → alert`
+- Integrated JWT auth and email delivery via Resend
+- Implemented TTL-based job expiry and matching engine
 
 ---
 
-## Connect
+### [Brevis](https://github.com/me-prakhargupta/brevis)
+Privacy-first anonymous messaging platform for identity-free emotional expression.
+
+**Highlights:**  
+- Secure JWT-based session management  
+- Route-level rate limiting and centralized error handling  
+- Production deployment on Vercel + Render  
+
+---
+
+### [AI Assisted Journal System](https://github.com/me-prakhargupta/ai-assisted-journal-system)
+AI-powered journaling platform with Google Gemini emotion analysis.
+
+**Highlights:**  
+- Integrated LLM-powered sentiment/emotion analysis  
+- Implemented DB-level caching reducing API/token usage by ~40%  
+- Zod-validated structured LLM responses  
+
+---
+
+## Experience
+
+- Open Source Contributor - KanoDojo / Tadreeb LMS  
+- Full Stack Developer Intern - CodeMyPYP  
+
+---
+
+## Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/meprakhargupta/)
 - [LeetCode](https://leetcode.com/u/meprakhargupta/)
